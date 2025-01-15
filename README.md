@@ -1,75 +1,120 @@
-# Chương Trình Học Tin Học Nâng Cao
+# Môn Học: Tin Học Nâng Cao
 
-**Giảng viên:** Thạc sĩ Hoàng Quốc Tuấn
-
-## Mục tiêu khóa học
-- Nâng cao kỹ năng sử dụng Microsoft Office chuyên sâu.
-- Sử dụng thành thạo các công cụ và tính năng nâng cao trong Word, Excel, và PowerPoint để phục vụ công việc chuyên môn.
-- Áp dụng các kỹ thuật xử lý dữ liệu và tạo báo cáo chuyên nghiệp.
+## Giảng viên:
+- **Họ và Tên**: Thạc sĩ Hoàng Quốc Tuấn
+- **Chức danh**: Giảng viên chuyên ngành Công nghệ Thông tin
+- **Liên hệ**: [Website cá nhân](http://hoangquoctuan.net)
 
 ---
 
-## Nội dung khóa học
-
-### Phần 1: Microsoft Word Nâng Cao
-**Mục tiêu:**
-- Tạo tài liệu chuyên nghiệp với các tính năng nâng cao.
-- Sử dụng các công cụ tự động hóa để tối ưu công việc soạn thảo.
-
-**Nội dung chi tiết:**
-1. Tạo và quản lý mục lục tự động.
-2. Sử dụng các công cụ tham chiếu và trích dẫn.
-3. Tùy chỉnh header và footer chuyên nghiệp.
-4. Chèn và định dạng bảng biểu nâng cao.
-5. Bảo mật và chia sẻ tài liệu.
-6. Thực hành.
-
-### Phần 2: Microsoft Excel Nâng Cao
-**Mục tiêu:**
-- Xử lý và phân tích dữ liệu lớn.
-- Sử dụng các hàm nâng cao và công cụ phân tích dữ liệu chuyên sâu.
-
-**Nội dung chi tiết:**
-1. Sử dụng các hàm logic và điều kiện nâng cao.
-2. Tạo bảng PivotTable và PivotChart.
-3. Phân tích dữ liệu với Power Query.
-4. Xử lý dữ liệu bằng VBA cơ bản.
-5. Tự động hóa tác vụ với Macro.
-6. Thực hành.
-
-### Phần 3: Microsoft PowerPoint Nâng Cao
-**Mục tiêu:**
-- Tạo bài thuyết trình đẳng cấp với các công cụ thiết kế chuyên sâu.
-- Sử dụng các hiệu ứng và hoạt hình phức tạp.
-
-**Nội dung chi tiết:**
-1. Tùy chỉnh mẫu slide và theme.
-2. Sử dụng hiệu ứng hoạt hình nâng cao.
-3. Thêm video, âm thanh và các thành phần đa phương tiện.
-4. Thiết kế infographic chuyên nghiệp.
-5. Trình chiếu và điều chỉnh thời gian tự động.
-6. Thực hành.
+## Mô tả môn học:
+Môn học "Tin Học Nâng Cao" cung cấp kiến thức chuyên sâu về các ứng dụng tin học văn phòng, xử lý dữ liệu lớn, lập trình VBA trong Excel, và các công cụ quản lý hệ thống hiện đại. Sinh viên sẽ được hướng dẫn thực hành chuyên sâu nhằm giải quyết các bài toán thực tế trong công việc và nghiên cứu.
 
 ---
 
-## Phương pháp giảng dạy
-- Học qua các bài tập thực tế với dữ liệu mô phỏng.
-- Hướng dẫn từng bước bởi giảng viên.
-- Tạo sản phẩm thực tế sau mỗi phần học.
-
-## Thời lượng khóa học
-- Tổng thời lượng: **15 buổi** (5 buổi/tuần).
-  - Phần 1: 5 buổi.
-  - Phần 2: 6 buổi.
-  - Phần 3: 4 buổi.
-
-## Đánh giá và chứng chỉ
-- Kiểm tra cuối khóa: Thực hành với bài tập tổng hợp.
-- Học viên hoàn thành sẽ nhận chứng chỉ "Tin học văn phòng nâng cao" từ Thạc sĩ Hoàng Quốc Tuấn.
+## Mục tiêu môn học:
+1. Thành thạo các tính năng nâng cao của Microsoft Word, Excel, và PowerPoint.
+2. Xây dựng và triển khai các ứng dụng VBA trong Excel để tự động hóa công việc.
+3. Sử dụng các công cụ xử lý dữ liệu lớn như Power Query và Power BI.
+4. Phát triển kỹ năng quản lý hệ thống file và dữ liệu lớn hiệu quả.
+5. Tích hợp các ứng dụng văn phòng để tối ưu hóa quy trình công việc.
 
 ---
 
-## Thông tin liên hệ
+## Nội dung chi tiết:
+
+### **Phần 1: Microsoft Word Nâng Cao**
+- **Mục tiêu**:
+  - Xử lý tài liệu lớn với nhiều trang.
+  - Sử dụng các tính năng tham chiếu và liên kết động.
+- **Nội dung chi tiết**:
+  1. Quản lý tài liệu lớn: Mục lục tự động, tiêu đề, và số trang.
+  2. Sử dụng bảng biểu, đồ họa, và biểu đồ trong Word.
+  3. Tạo các mẫu biểu và hợp đồng chuyên nghiệp.
+  4. Chèn và liên kết dữ liệu từ Excel.
+
+---
+
+### **Phần 2: Microsoft Excel Nâng Cao**
+- **Mục tiêu**:
+  - Thực hiện các phép tính phức tạp và phân tích dữ liệu.
+  - Tự động hóa công việc với VBA.
+- **Nội dung chi tiết**:
+  1. Các hàm nâng cao: INDEX, MATCH, OFFSET, SUMPRODUCT, v.v.
+  2. Công cụ phân tích dữ liệu: Pivot Table, Pivot Chart.
+  3. Xử lý dữ liệu lớn với Power Query.
+  4. Giới thiệu VBA:
+     - Ghi macro và chỉnh sửa code.
+     - Tạo giao diện người dùng cơ bản.
+     - Ứng dụng tự động hóa công việc hàng ngày.
+  5. Thực hành: Tự động hóa báo cáo bán hàng.
+
+---
+
+### **Phần 3: Microsoft PowerPoint Nâng Cao**
+- **Mục tiêu**:
+  - Thiết kế bài thuyết trình chuyên nghiệp và sáng tạo.
+- **Nội dung chi tiết**:
+  1. Sử dụng slide master và template tùy chỉnh.
+  2. Tích hợp video, âm thanh, và biểu đồ động.
+  3. Hiệu ứng chuyển tiếp và hoạt hình chuyên nghiệp.
+  4. Trình bày slide trực tiếp với chức năng Presenter View.
+
+---
+
+### **Phần 4: Xử Lý Dữ Liệu Lớn và Power BI**
+- **Mục tiêu**:
+  - Phân tích và trực quan hóa dữ liệu lớn.
+- **Nội dung chi tiết**:
+  1. Kết nối và làm sạch dữ liệu với Power Query.
+  2. Tạo mô hình dữ liệu với Power Pivot.
+  3. Xây dựng báo cáo trực quan với Power BI.
+  4. Thực hành: Xây dựng báo cáo doanh thu và phân tích thị trường.
+
+---
+
+### **Phần 5: Quản Lý Hệ Thống File và Dữ Liệu**
+- **Mục tiêu**:
+  - Tổ chức và quản lý hệ thống file khoa học.
+- **Nội dung chi tiết**:
+  1. Quản lý file và thư mục lớn với công cụ hiện đại.
+  2. Tích hợp các dịch vụ lưu trữ đám mây như Google Drive, OneDrive.
+  3. Bảo mật dữ liệu và quyền truy cập.
+
+---
+
+## Phương pháp giảng dạy:
+1. **Lý thuyết kết hợp thực hành**:
+   - Giảng viên trình bày lý thuyết và hướng dẫn chi tiết.
+   - Sinh viên thực hành tại lớp với các bài tập liên quan.
+2. **Dự án nhóm**:
+   - Sinh viên được chia nhóm để giải quyết các bài toán thực tế.
+3. **Tương tác và phản hồi**:
+   - Giảng viên hỗ trợ và giải đáp thắc mắc trong suốt khóa học.
+
+---
+
+## Đánh giá môn học:
+- **Điểm giữa kỳ**: 40%
+  - Bài tập nhóm hoặc bài tập lớn.
+  - Kiểm tra lý thuyết và thực hành.
+- **Điểm cuối kỳ**: 60%
+  - Bài kiểm tra thực hành toàn diện.
+  - Dự án cá nhân.
+
+---
+
+## Tài liệu tham khảo:
+1. "Microsoft Office 365 Bible" – Lisa A. Bucki.
+2. "Mastering VBA for Microsoft Office 365" – Richard Mansfield.
+3. "Data Analysis with Power BI" – Daniel Jones.
+
+---
+
+## Thông tin liên hệ:
 - [Hoàng Quốc Tuấn](http://hoangquoctuan.net)
 - [Công ty thiết kế web tại Đắk Lắk](http://daksystem.net)
 - [Thiết kế website tại Đắk Lắk](http://dakdesign.net)
+
+---
+**Ghi chú**: Nội dung khóa học có thể được điều chỉnh để phù hợp với từng kỳ học. Vui lòng liên hệ giảng viên để biết thêm thông tin chi tiết.
