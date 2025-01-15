@@ -52,6 +52,25 @@
         .text-secondary {
             color: #666 !important;
         }
+
+        /* Nút tải file PDF */
+        .download-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #007bff;
+            color: white;
+            padding: 15px 25px;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+        }
+
+        .download-btn:hover {
+            background-color: #0056b3;
+        }
     </style>
 </head>
 <body>
@@ -145,6 +164,11 @@
         </p>
     </div>
 </div>
+
+<!-- Nút tải về file PDF -->
+<a href="Chuong_Trinh_Hoc_Tin_Hoc_Nang_Cao.pdf" download="Chuong_Trinh_Hoc_Tin_Hoc_Nang_Cao.pdf">
+    <button class="download-btn">Tải về PDF</button>
+</a>
 
 <!-- Link to Bootstrap JS and dependencies -->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
