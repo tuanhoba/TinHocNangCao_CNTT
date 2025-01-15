@@ -1,120 +1,122 @@
-# Môn Học: Tin Học Nâng Cao
+# Môn Tin Học Nâng Cao
 
-## Giảng viên:
-- **Họ và Tên**: Thạc sĩ Hoàng Quốc Tuấn
-- **Chức danh**: Giảng viên chuyên ngành Công nghệ Thông tin
-- **Liên hệ**: [Website cá nhân](http://hoangquoctuan.net)
+**Giảng viên:** Thạc sĩ Hoàng Quốc Tuấn
 
----
-
-## Mô tả môn học:
-Môn học "Tin Học Nâng Cao" cung cấp kiến thức chuyên sâu về các ứng dụng tin học văn phòng, xử lý dữ liệu lớn, lập trình VBA trong Excel, và các công cụ quản lý hệ thống hiện đại. Sinh viên sẽ được hướng dẫn thực hành chuyên sâu nhằm giải quyết các bài toán thực tế trong công việc và nghiên cứu.
+## Mục tiêu khóa học
+- Nâng cao kỹ năng sử dụng Microsoft Office, với trọng tâm là Microsoft Word, PowerPoint, và Excel.
+- Áp dụng các kỹ thuật và công cụ nâng cao để xử lý văn bản, thiết kế thuyết trình và phân tích dữ liệu chuyên sâu.
+- Phát triển kỹ năng tự động hóa công việc và tối ưu hóa hiệu quả làm việc với các phần mềm văn phòng.
 
 ---
 
-## Mục tiêu môn học:
-1. Thành thạo các tính năng nâng cao của Microsoft Word, Excel, và PowerPoint.
-2. Xây dựng và triển khai các ứng dụng VBA trong Excel để tự động hóa công việc.
-3. Sử dụng các công cụ xử lý dữ liệu lớn như Power Query và Power BI.
-4. Phát triển kỹ năng quản lý hệ thống file và dữ liệu lớn hiệu quả.
-5. Tích hợp các ứng dụng văn phòng để tối ưu hóa quy trình công việc.
+## Nội dung khóa học
+
+### Phần 1: Microsoft Word Nâng Cao
+#### **Mục tiêu**
+- Thành thạo các công cụ nâng cao trong Microsoft Word để tạo ra các tài liệu phức tạp.
+- Tìm hiểu cách tự động hóa các tác vụ trong Word và nâng cao hiệu quả công việc.
+
+#### **Nội dung chi tiết**
+1. **Tổng quan về giao diện và các chức năng nâng cao của Microsoft Word**
+   - Quản lý nhiều tài liệu cùng lúc.
+   - Tùy chỉnh giao diện làm việc (Quick Access Toolbar, Ribbon).
+   - Sử dụng chế độ làm việc đồng thời trên nhiều máy tính với OneDrive và SharePoint.
+   
+2. **Sử dụng các công cụ định dạng nâng cao**
+   - Định dạng đoạn văn bản với Styles & Themes.
+   - Tạo và sử dụng Template cho các loại tài liệu chuyên dụng.
+   - Sử dụng Table of Contents tự động, với khả năng cập nhật và điều chỉnh theo yêu cầu.
+   
+3. **Công cụ vẽ và chèn hình ảnh**
+   - Vẽ hình minh họa và sơ đồ bằng các công cụ Draw và SmartArt.
+   - Chèn hình ảnh và đồ họa vector, điều chỉnh hình ảnh với các hiệu ứng đặc biệt.
+   
+4. **Tạo và quản lý tài liệu hợp tác**
+   - Theo dõi thay đổi (Track Changes), so sánh và hợp nhất tài liệu.
+   - Sử dụng công cụ Comments và ghi chú cho các cuộc họp.
+   
+5. **Sử dụng Mail Merge nâng cao**
+   - Tạo thư mời, nhãn và tài liệu cá nhân hóa cho nhiều người nhận.
+   - Kết nối dữ liệu từ Excel và Access với Mail Merge.
+   
+6. **Thực hành**
+   - Tạo một bộ tài liệu hoàn chỉnh từ các văn bản mẫu, bao gồm thư mời, báo cáo, bảng biểu.
 
 ---
 
-## Nội dung chi tiết:
+### Phần 2: Microsoft PowerPoint Nâng Cao
+#### **Mục tiêu**
+- Thiết kế các bài thuyết trình chuyên nghiệp và ấn tượng với các công cụ nâng cao.
+- Sử dụng các kỹ thuật và hiệu ứng để làm cho bài thuyết trình sinh động và tương tác.
 
-### **Phần 1: Microsoft Word Nâng Cao**
-- **Mục tiêu**:
-  - Xử lý tài liệu lớn với nhiều trang.
-  - Sử dụng các tính năng tham chiếu và liên kết động.
-- **Nội dung chi tiết**:
-  1. Quản lý tài liệu lớn: Mục lục tự động, tiêu đề, và số trang.
-  2. Sử dụng bảng biểu, đồ họa, và biểu đồ trong Word.
-  3. Tạo các mẫu biểu và hợp đồng chuyên nghiệp.
-  4. Chèn và liên kết dữ liệu từ Excel.
-
----
-
-### **Phần 2: Microsoft Excel Nâng Cao**
-- **Mục tiêu**:
-  - Thực hiện các phép tính phức tạp và phân tích dữ liệu.
-  - Tự động hóa công việc với VBA.
-- **Nội dung chi tiết**:
-  1. Các hàm nâng cao: INDEX, MATCH, OFFSET, SUMPRODUCT, v.v.
-  2. Công cụ phân tích dữ liệu: Pivot Table, Pivot Chart.
-  3. Xử lý dữ liệu lớn với Power Query.
-  4. Giới thiệu VBA:
-     - Ghi macro và chỉnh sửa code.
-     - Tạo giao diện người dùng cơ bản.
-     - Ứng dụng tự động hóa công việc hàng ngày.
-  5. Thực hành: Tự động hóa báo cáo bán hàng.
+#### **Nội dung chi tiết**
+1. **Tổng quan về PowerPoint và giao diện nâng cao**
+   - Tùy chỉnh giao diện, sử dụng các Theme và Layouts cho bài thuyết trình.
+   - Sử dụng công cụ Presenter View để quản lý bài thuyết trình trong thời gian thực.
+   
+2. **Tạo bài thuyết trình với đồ họa và multimedia**
+   - Chèn hình ảnh, video, âm thanh và các loại tệp khác vào slide.
+   - Sử dụng PowerPoint như một công cụ dựng phim với các hiệu ứng chuyển tiếp, hoạt hình (animations) và multimedia.
+   
+3. **Sử dụng Master Slide và Theme để quản lý bố cục đồng nhất**
+   - Thiết kế Master Slide để đồng bộ hóa toàn bộ bài thuyết trình.
+   - Tạo và chỉnh sửa Theme, sử dụng Template tùy chỉnh cho nhiều bài thuyết trình.
+   
+4. **Các công cụ tương tác nâng cao**
+   - Tạo các liên kết nội bộ và giữa các slide.
+   - Thiết kế các bài thuyết trình có tính tương tác với các đối tượng trong slide (hyperlinks, action buttons).
+   
+5. **Thực hành**
+   - Thiết kế một bài thuyết trình chuyên nghiệp về một chủ đề lựa chọn, bao gồm sử dụng các hiệu ứng và multimedia.
 
 ---
 
-### **Phần 3: Microsoft PowerPoint Nâng Cao**
-- **Mục tiêu**:
-  - Thiết kế bài thuyết trình chuyên nghiệp và sáng tạo.
-- **Nội dung chi tiết**:
-  1. Sử dụng slide master và template tùy chỉnh.
-  2. Tích hợp video, âm thanh, và biểu đồ động.
-  3. Hiệu ứng chuyển tiếp và hoạt hình chuyên nghiệp.
-  4. Trình bày slide trực tiếp với chức năng Presenter View.
+### Phần 3: Microsoft Excel Nâng Cao
+#### **Mục tiêu**
+- Thành thạo các công cụ và chức năng nâng cao trong Excel để phân tích dữ liệu và tự động hóa công việc.
+- Quản lý và xử lý dữ liệu lớn, tối ưu hóa các công việc tính toán và phân tích bằng các công cụ mạnh mẽ.
+
+#### **Nội dung chi tiết**
+1. **Tổng quan về giao diện và các thành phần nâng cao trong Excel**
+   - Các tính năng mới nhất trong Excel (XLOOKUP, Power Query, Power Pivot).
+   - Cách sử dụng các công cụ tích hợp để xử lý dữ liệu phức tạp.
+   
+2. **Quản lý và xử lý dữ liệu nâng cao**
+   - Sử dụng các công cụ lọc, phân loại và tìm kiếm nâng cao.
+   - Kết nối và xử lý dữ liệu từ các nguồn ngoài Excel (SQL Server, Access, CSV).
+   - Sử dụng Data Validation và Data Forms để đảm bảo tính nhất quán và chính xác của dữ liệu.
+   
+3. **Các hàm nâng cao**
+   - Sử dụng các hàm nâng cao như VLOOKUP, INDEX, MATCH, và hàm mảng.
+   - Sử dụng các hàm logic phức tạp (IF, AND, OR, XOR) kết hợp với hàm TEXT, DATE.
+   
+4. **Phân tích dữ liệu và báo cáo nâng cao**
+   - Sử dụng PivotTables và PivotCharts để phân tích và trực quan hóa dữ liệu.
+   - Tạo Dashboard với Excel để theo dõi các số liệu quan trọng trong thời gian thực.
+   - Tích hợp Power BI vào Excel để phân tích dữ liệu trực quan.
+   
+5. **Tự động hóa với Macro và VBA**
+   - Viết và sử dụng Macro để tự động hóa các công việc lặp đi lặp lại.
+   - Làm quen với Visual Basic for Applications (VBA) để tạo các ứng dụng tự động hóa phức tạp trong Excel.
+   
+6. **Thực hành**
+   - Xử lý và phân tích một bộ dữ liệu lớn, tạo báo cáo tự động và xây dựng Dashboard.
 
 ---
 
-### **Phần 4: Xử Lý Dữ Liệu Lớn và Power BI**
-- **Mục tiêu**:
-  - Phân tích và trực quan hóa dữ liệu lớn.
-- **Nội dung chi tiết**:
-  1. Kết nối và làm sạch dữ liệu với Power Query.
-  2. Tạo mô hình dữ liệu với Power Pivot.
-  3. Xây dựng báo cáo trực quan với Power BI.
-  4. Thực hành: Xây dựng báo cáo doanh thu và phân tích thị trường.
+## Phương pháp giảng dạy
+- Học viên thực hành ngay trên máy tính với bài tập thực tế.
+- Cung cấp tài liệu tham khảo chi tiết và video hướng dẫn.
+- Giảng viên cung cấp giải đáp nhanh chóng và hướng dẫn cụ thể trong quá trình học.
+
+## Thời lượng khóa học
+- Tổng thời lượng: **14 buổi** (4 buổi/tuần).
+  - Phần 1: 5 buổi.
+  - Phần 2: 4 buổi.
+  - Phần 3: 5 buổi.
 
 ---
 
-### **Phần 5: Quản Lý Hệ Thống File và Dữ Liệu**
-- **Mục tiêu**:
-  - Tổ chức và quản lý hệ thống file khoa học.
-- **Nội dung chi tiết**:
-  1. Quản lý file và thư mục lớn với công cụ hiện đại.
-  2. Tích hợp các dịch vụ lưu trữ đám mây như Google Drive, OneDrive.
-  3. Bảo mật dữ liệu và quyền truy cập.
-
----
-
-## Phương pháp giảng dạy:
-1. **Lý thuyết kết hợp thực hành**:
-   - Giảng viên trình bày lý thuyết và hướng dẫn chi tiết.
-   - Sinh viên thực hành tại lớp với các bài tập liên quan.
-2. **Dự án nhóm**:
-   - Sinh viên được chia nhóm để giải quyết các bài toán thực tế.
-3. **Tương tác và phản hồi**:
-   - Giảng viên hỗ trợ và giải đáp thắc mắc trong suốt khóa học.
-
----
-
-## Đánh giá môn học:
-- **Điểm giữa kỳ**: 40%
-  - Bài tập nhóm hoặc bài tập lớn.
-  - Kiểm tra lý thuyết và thực hành.
-- **Điểm cuối kỳ**: 60%
-  - Bài kiểm tra thực hành toàn diện.
-  - Dự án cá nhân.
-
----
-
-## Tài liệu tham khảo:
-1. "Microsoft Office 365 Bible" – Lisa A. Bucki.
-2. "Mastering VBA for Microsoft Office 365" – Richard Mansfield.
-3. "Data Analysis with Power BI" – Daniel Jones.
-
----
-
-## Thông tin liên hệ:
-- [Hoàng Quốc Tuấn](http://hoangquoctuan.net)
-- [Công ty thiết kế web tại Đắk Lắk](http://daksystem.net)
-- [Thiết kế website tại Đắk Lắk](http://dakdesign.net)
-
----
-**Ghi chú**: Nội dung khóa học có thể được điều chỉnh để phù hợp với từng kỳ học. Vui lòng liên hệ giảng viên để biết thêm thông tin chi tiết.
+## Đánh giá và chứng chỉ
+- Bài kiểm tra cuối khóa: Thực hành trên máy tính, bao gồm các bài tập Excel, PowerPoint và Word.
+- Học viên đạt yêu cầu sẽ nhận chứng chỉ hoàn thành khóa học từ Thạc sĩ Hoàng Quốc Tuấn.
