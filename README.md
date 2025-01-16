@@ -120,3 +120,11 @@
 ## Đánh giá và chứng chỉ
 - Bài kiểm tra cuối khóa: Thực hành trên máy tính, bao gồm các bài tập Excel, PowerPoint và Word.
 - Học viên đạt yêu cầu sẽ nhận chứng chỉ hoàn thành khóa học từ Thạc sĩ Hoàng Quốc Tuấn.
+
+## Thông tin liên hệ:
+- [Hoàng Quốc Tuấn](http://hoangquoctuan.net)
+- [Công ty thiết kế web tại Đắk Lắk](http://daksystem.net)
+- [Thiết kế website tại Đắk Lắk](http://dakdesign.net)
+
+---
+*Lưu ý*: Thông tin chi tiết về môn học có thể thay đổi theo từng kỳ học, vui lòng tham khảo giảng viên và tài liệu chính thức của trường.
